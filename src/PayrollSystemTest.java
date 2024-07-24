@@ -1,7 +1,5 @@
-// Andrew Sousa
+// Andrew Soozay
 // 7/14/24
-// CS 145
-// Programming Assignment 4: Payment System Heirarchy
 // PayrollSystemTest.java
 
 //PayrollSystemTest.java is a class where the user can test the different employee's and run a test of a payroll. 

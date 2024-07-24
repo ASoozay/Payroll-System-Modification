@@ -1,7 +1,5 @@
-// Andrew Sousa
+// Andrew Soozay
 // 7/14/24
-// CS 145
-// Programming Assignment 4: Payment System Heirarchy
 // CommissionEmployee.java
 
 // CommissionEmployee.java is a class that contains and calculates all informaiton for a commission employee

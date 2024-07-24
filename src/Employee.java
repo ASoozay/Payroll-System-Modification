@@ -1,7 +1,5 @@
-// Andrew Sousa
+// Andrew Soozay
 // 7/14/24
-// CS 145
-// Programming Assignment 4: Payment System Heirarchy
 // Employee.java
 
 // Employee.java is a class that contains information that all employees have (first name, last name, social security number, date of birth), 
